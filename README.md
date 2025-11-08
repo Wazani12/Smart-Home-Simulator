@@ -24,5 +24,3 @@ Smart Home Simulator
 2. Observe the simulation of devices turning ON/OFF and status reporting.
 3. Use the Scheduler to change device statuses programmatically.
 
-This project is a great example for beginners to learn Java OOP concepts and organize a full mini-project with multiple classes and features.
->>>>>>> f344d95 (Initial commit: Smart Home Simulator Java OOP project)
